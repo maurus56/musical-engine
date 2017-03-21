@@ -1,4 +1,6 @@
+Creators of the initial code:
 https://github.com/MattVitelli/GRUV
+https://github.com/unnati-xyz/music-generation
 
 # musical-engine
 

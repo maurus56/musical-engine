@@ -38,5 +38,3 @@ Type the following command in your terminal':
 ``python generate.py``
 
 The generated WAV file is stored in a file named generated_song.wav. 
-
-You can further read about the entire procedure involved in generating the music, in the following post that is there on this repository, **Blog_Post_Music_Gen_1.md**.

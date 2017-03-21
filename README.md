@@ -2,7 +2,7 @@
 
 Algorithmic music generation using RNN(Recurrent Neural Networks)
 
-Language used : Python 3.5
+Language used : Python 2.7
 
 The following packages have to be installed before running this code:
 

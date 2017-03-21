@@ -2,6 +2,9 @@ Creators of the initial code:
 - https://github.com/MattVitelli/GRUV
 - https://github.com/unnati-xyz/music-generation
 
+Using it as a base for university project...
+I'll upload it when finished.
+
 # musical-engine
 
 Algorithmic music generation using RNN(Recurrent Neural Networks)
@@ -42,3 +45,4 @@ Type the following command in your terminal':
 ``python generate.py``
 
 The generated WAV file is stored in a file named generated_song.wav. 
+

@@ -3,13 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pyc
-datasets/*
+
 
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
+datasets/
 env/
 build/
 develop-eggs/

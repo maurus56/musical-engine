@@ -6,7 +6,7 @@ Language used : Python 3.5
 
 The following packages have to be installed before running this code:
 
-1. *Keras* version 0.1.0 with Theano as the backend.
+1. *Keras* version 0.1.0 with TensorFlow as the backend.
 2. *NumPy* and *SciPy* for various mathematical computation on tensors.
 3. *Matplotlib* for visualizing the input.
 4. *LAME* and *SoX* to convert mp3 files into other formats such as wav.

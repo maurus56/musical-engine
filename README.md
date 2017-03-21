@@ -1,4 +1,4 @@
-# music-generation
+# musical-engine
 
 Algorithmic music generation using RNN(Recurrent Neural Networks)
 

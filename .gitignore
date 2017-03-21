@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+datasets/YourMusicLibrary/*
 
 # C extensions
 *.so

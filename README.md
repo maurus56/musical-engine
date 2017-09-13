@@ -1,3 +1,8 @@
+I was working on optimization, but my primary goal was to upgrade the code for compatibility with the actual versions of 
+Keras and Tensorflow. Im sorry to say, eventually dropped the development because of a problem with the structure and 
+generation in the nn (have no resources to make tests), my (2010) computer was not able to run tests and had no access to 
+better equipment.
+
 Creators of the initial code:
 - https://github.com/MattVitelli/GRUV
 - https://github.com/unnati-xyz/music-generation
